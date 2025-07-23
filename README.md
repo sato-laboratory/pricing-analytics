@@ -10,7 +10,6 @@
 ```
 ├ book-examples # エクセルファイルを格納するディレクトリ  
 ├ errata          # 正誤表を格納するディレクトリ   
-├ .gitignore  
 └ README.md  
 ```
 
